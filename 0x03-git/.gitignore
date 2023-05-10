@@ -1,2 +1,14 @@
 #!/bin/bash
+<<<<<<< HEAD
+<<<<<<<< HEAD:0x03-git/.gitignore
 echo "~"
+========
+echo "ALX School"
+>>>>>>>> update_script:0x03-git/bash/alx
+=======
+<<<<<<< HEAD:0x03-git/bash/alx
+echo "Alx School"
+=======
+echo "~"
+>>>>>>> master:0x03-git/.gitignore
+>>>>>>> update_script
